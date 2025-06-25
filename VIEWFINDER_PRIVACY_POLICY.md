@@ -27,4 +27,4 @@ This app is privacy-focused:
 - Bellows extension calculator
 
 ## Support
-For any questions, bug reports, or feature requests, please email support@jonassubvert.com 
+For any questions, bug reports, or feature requests, please email jonassubvert@gmail.com 
